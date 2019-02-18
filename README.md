@@ -1,2 +1,19 @@
 # Exam-P11
- L'examen des P11 en CS211 
+Examen de CS211 des P11
+
+## Build
+``
+$> make
+``
+
+## Run
+``
+$> make test
+``  
+or  
+``
+$> ./prog
+``
+
+## Author
+[mtribiere]
